@@ -1,1 +1,3 @@
-<video src="https://github.com/JiewenKuang/GSNet_post/blob/master/video/0001-0150.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video width="320" height="240" controls>
+  <source src="video/0001-0150.mp4" type="video/mp4">
+</video>
